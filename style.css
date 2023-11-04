@@ -1,0 +1,10 @@
+/* cascading rule */
+/* p{
+    color: blue;
+}
+p{
+    color: red;
+} */
+*{
+    color: green;
+}
